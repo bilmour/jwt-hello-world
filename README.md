@@ -1,4 +1,4 @@
-# Spring Bot - JWT
+# Spring Boot - JWT
 Spring Boot Application that makes use of JWT authentication for securing an exposed REST API. In this example we will be making use of hard coded user values for User Authentication
 
 -> Develop a Spring Boot Application to expose a Simple REST GET API with mapping /hello.
